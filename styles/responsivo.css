@@ -1,0 +1,54 @@
+@media screen and (min-width: 400px) {
+    body{
+        background-color: rgb(248, 246, 246);
+    }
+    div.container{
+        width: 98vw;
+    }
+    main{
+        display: flex;
+        max-width: 680px;
+        background-color: hsl(0, 0%, 100%);
+        box-shadow: 10px 15px 25px hsla(224, 91%, 45%, 0.068);
+        border-radius: 1.8rem;
+        height: 430px;
+    }
+    section#result-container{
+        width: 50%;
+        border-radius: 1.8rem;
+        padding: 1.5rem 3.5rem 2rem;
+        height: 100%;
+    }
+    div.ball-result{
+        width: 160px;
+        height: 160px;
+    }
+    section#summary-container{
+        width: 50%;
+    }
+    div.summary-interno{
+        width: 75%;
+    }
+    h3.summary{
+        margin-top: 25px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    li.item{
+        margin: 14px 0;
+        padding: 12px;
+    }
+    .reaction, .memory, .verbal, .visual{
+        font-size: 0.9rem;
+    }
+    
+    .btn-continue{
+        margin-top: 25px;
+        font-size: 0.9rem;
+    }
+    .attribution { 
+        display: block;
+    }
+    
+}
