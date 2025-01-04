@@ -24,7 +24,6 @@ body{
 }
 main{
     max-width: 400px;
-    height: 100%;
 }
 section#result-container{
     width: 100%;
