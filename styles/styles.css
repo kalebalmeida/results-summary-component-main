@@ -61,6 +61,9 @@ span.de-cem{
 h2.otimo{
     margin: 1.8rem 0 0.7rem 0;
 }
+section#summary-container{
+    width: 100%;
+}
 
 div.summary-interno{
     width: 85%;
