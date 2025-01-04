@@ -3,9 +3,6 @@
         background-color: rgb(248, 246, 246);
     }
     div.container{
-        width: 98vw;
-    }
-    main{
         display: flex;
         max-width: 680px;
         background-color: hsl(0, 0%, 100%);
