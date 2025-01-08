@@ -40,11 +40,11 @@ section#result-container{
     border-bottom-left-radius: 2.2rem;
     border-bottom-right-radius: 2.2rem;
 }
-p.your-result{
+h1.your-result{
     margin-bottom: 2rem;
     font-size: 17px;
 }
-p.your-result, p.info{
+h1.your-result, p.info{
     color: hsla(0, 0%, 100%, 0.753);
 }
 

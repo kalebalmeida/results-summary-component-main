@@ -17,7 +17,7 @@
         padding: 1.5rem 3.5rem 2rem;
         height: 100%;
     }
-    p.your-result{
+    h1.your-result{
         margin-bottom: 2rem;
         font-size: 18px;
     }
@@ -53,11 +53,7 @@
         margin-top: 25px;
         font-size: 0.9rem;
     }
-    .attribution { 
-        display: block;
-        position: absolute;
-        bottom: 10px;
-    }
+
     a.hover{
         font-style: italic;
         color: var(--azul-cobalto);
@@ -67,4 +63,12 @@
         text-decoration: underline;
     }
     
+}
+
+@media screen and (min-height: 500px) {
+    .attribution { 
+        display: block;
+        position: absolute;
+        bottom: 10px;
+    }
 }
