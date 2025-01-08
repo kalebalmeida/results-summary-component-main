@@ -17,9 +17,16 @@
         padding: 1.5rem 3.5rem 2rem;
         height: 100%;
     }
+    p.your-result{
+        margin-bottom: 2rem;
+        font-size: 18px;
+    }
     div.ball-result{
         width: 160px;
         height: 160px;
+    }
+    h2.otimo{
+        margin: 1.8rem 0 0.7rem;
     }
     section#summary-container{
         width: 50%;
