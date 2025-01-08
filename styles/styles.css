@@ -41,15 +41,15 @@ section#result-container{
 }
 p.your-result{
     margin-bottom: 2rem;
-    font-size: 18px;
+    font-size: 17px;
 }
 p.your-result, p.info{
     color: hsla(0, 0%, 100%, 0.753);
 }
 
 div.ball-result{
-    width: 145px;
-    height: 145px;
+    width: 140px;
+    height: 140px;
     margin: 0 auto; 
     display: flex;
     flex-direction: column;
@@ -58,13 +58,13 @@ div.ball-result{
     background-image: linear-gradient(to top, hsla(241, 72%, 46%, 0), hsla(256, 72%, 46%, 1));
 }
 h2.numero-grande{
-    font-size: 60px;
+    font-size: 58px;
 }
 span.de-cem{
     color: hsla(0, 0%, 100%, 0.514);
 }
 h2.otimo{
-    margin: 1.8rem 0 0.7rem 0;
+    margin: 1.5rem 0 0.6rem;
 }
 section#summary-container{
     width: 100%;
