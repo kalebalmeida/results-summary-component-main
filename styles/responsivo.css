@@ -53,6 +53,13 @@
         margin-top: 25px;
         font-size: 0.9rem;
     }
+    @media screen and (min-height: 500px) {
+        .attribution { 
+            display: block;
+            position: absolute;
+            bottom: 10px;
+        }
+    }
 
     a.hover{
         font-style: italic;
@@ -65,10 +72,3 @@
     
 }
 
-@media screen and (min-height: 500px) {
-    .attribution { 
-        display: block;
-        position: absolute;
-        bottom: 10px;
-    }
-}
