@@ -55,6 +55,16 @@
     }
     .attribution { 
         display: block;
+        position: absolute;
+        bottom: 10px;
+    }
+    a.hover{
+        font-style: italic;
+        color: var(--azul-cobalto);
+    }
+    a.hover:hover{
+        color: hsl(252, 85%, 54%);
+        text-decoration: underline;
     }
     
 }
